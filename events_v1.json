@@ -26,12 +26,5 @@
 "eventAge": "All ages",
 "eventDescription": "A water park is an theme park that features water play areas, such as water slides, splash pads, spraygrounds (water playgrounds), lazy river.",
 "openHours": "from 10:00 until 19:00 at the top deck"
-},
-{
-"eventName": "Moonlight",
-"eventPic": "https://galemie.github.io/cruise_v3_pictures/water_slide.jpg",
-"eventAge": "All ages",
-"eventDescription": "cat",
-"openHours": "Black and white moggy"
 }
 ]
