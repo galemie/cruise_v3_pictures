@@ -1,0 +1,30 @@
+[
+{
+"eventName": "Casino Night",
+"eventPic": "https://github.com/galemie/cruise_v3_pictures/blob/f3ce738315e04d23cccdeb82a5d728167985f556/casino.jpg",
+"eventType": "adults",
+"eventDescription": "You are cordially invited to attend an evening of excitement and exhilaration hosted by the Gold Star Club Cocktails, hor d’oeuvres blackjack, roulette & more! from 8:00 until 23:30 at the Oakes Lodge",
+},
+
+{
+"eventName": "Fly with us",
+"eventPic": "https://github.com/galemie/cruise_v3_pictures/blob/f3ce738315e04d23cccdeb82a5d728167985f556/flying_tube.jpg",
+"eventType": "all ages",
+"eventDescription": "Fancy the exhilarating thrill of skydiving, with none of the anxiety caused by having to jump out of a plane? If so, then indoor skydiving is the perfect experience for you! Following your initial safety briefing, you’ll both suit up and head on down to the tunnel where your adventure begins. You’ll each enjoy two thrilling minutes of freefall simulation, alongside an experienced instructor, to make sure that you’re balancing yourself correctly and are correctly positioned in the wind tunnel. from 9:00 until 18:00 at the second deck",
+},
+
+{
+"eventName": "Little Drama...",
+"eventPic": "https://github.com/galemie/cruise_v3_pictures/blob/f3ce738315e04d23cccdeb82a5d728167985f556/theater.jpg",
+"eventType": "adults",
+"eventDescription": "Theatre on the see. English language productions. Cruise Ship Theatre Company. English speaking events to connect and inspire international audience. Book your tickets now. We are open from 18:00 until 23:00 at the third deck",
+},
+
+{
+"eventName": "Hawai slider",
+"eventPic": "https://github.com/galemie/cruise_v3_pictures/blob/f3ce738315e04d23cccdeb82a5d728167985f556/water_slide.jpg",
+"eventType": "all ages",
+"eventDescription": "A water park is an theme park that features water play areas, such as water slides, splash pads, spraygrounds (water playgrounds), lazy river. We are open from 10:00 until 19:00 at the top deck",
+},
+
+]
