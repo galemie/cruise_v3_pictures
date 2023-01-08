@@ -1,0 +1,22 @@
+{
+  "articles":[
+{
+      "name": "Falcors",
+      "imgUrl": "https://fi67.github.io/JsonData/images/falcor.jpg",
+      "stack": ["HTML"],
+      "link": "http://www.example.com/falcor"
+   },
+   {
+       "title": "Jem and Us Portfolio",
+     "imgUrl": "https://fi67.github.io/JsonData/images/jemima.jpg",
+       "stack": ["React"],
+      "link": "http://www.example.com/jem"
+   },
+   {
+      "title": "Jewels By Garnet",
+    "imgUrl":"https://fi67.github.io/JsonData/images/garnet.jpg",
+      "stack": ["Python"],
+     "link" : "http://www.example.com/garnet"
+   }
+        ]
+}
