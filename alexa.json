@@ -1,0 +1,44 @@
+{
+    "assignments": [
+        {
+            "name": "Math Homework 1",
+            "dueDate": "2023-06-01"
+        },
+        {
+            "name": "English Essay on Shakespeare",
+            "dueDate": "2023-06-04"
+        },
+        {
+            "name": "Chemistry Lab Report 3",
+            "dueDate": "2023-06-05"
+        },
+        {
+            "name": "Physics Problem Set 2",
+            "dueDate": "2023-06-07"
+        },
+        {
+            "name": "History Midterm Project",
+            "dueDate": "2023-06-10"
+        },
+        {
+            "name": "Computer Science Coding Assignment 4",
+            "dueDate": "2023-06-11"
+        },
+        {
+            "name": "Biology Research Paper",
+            "dueDate": "2023-06-15"
+        },
+        {
+            "name": "Art Sketch Assignment",
+            "dueDate": "2023-06-17"
+        },
+        {
+            "name": "Music Composition Task",
+            "dueDate": "2023-06-18"
+        },
+        {
+            "name": "French Language Oral Presentation",
+            "dueDate": "2023-06-20"
+        }
+    ]
+}
